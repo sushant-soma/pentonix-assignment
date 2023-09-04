@@ -74,6 +74,9 @@ Follow these steps to run the application:
     - To retrieve employee details by ENO, use a URL like:
       `http://localhost:9000/api?ENO=1`
 
+      ![image](https://github.com/sushant-soma/pentonix-assignment/assets/108216630/5c47218f-59e0-4a21-b081-af90db8f0167)
+
+
     - To retrieve a list of employees by DNAME, use a URL like:
       `http://localhost:9000/api/employees_by_dname?DNAME=Admin`
 
@@ -87,3 +90,4 @@ Follow these steps to run the application:
 
 - If you encounter any issues, ensure that you have Python and Flask installed correctly.
 - Double-check the URLs and query parameters when making requests to the APIs.
+
