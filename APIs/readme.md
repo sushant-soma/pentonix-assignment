@@ -56,7 +56,7 @@ Follow these steps to run the application:
 2. Navigate to the project directory:
 
     ```bash
-    cd employee-management-api
+    cd APIs
     ```
 
 3. Install the required dependencies (Flask):
