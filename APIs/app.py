@@ -65,4 +65,4 @@ def get_employee_details():
         return jsonify({'message': str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(port=9000)
+    app.run(port=9000)        #runs on port 9000
