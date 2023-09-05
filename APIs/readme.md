@@ -31,6 +31,8 @@ The Flask application (`app.py`) is designed to address the problem described ab
     - URL Example: `http://localhost:9000/api?ENO=1`
     - Description: This API retrieves employee details based on their Employee Number (ENO).
     - Exception Handling: The API handles invalid ENO format and returns appropriate error responses.
+    - ![image](https://github.com/sushant-soma/pentonix-assignment/assets/108216630/a24be075-ee13-4e2a-a340-4148eee5cae9)
+
 
 2. **API for Retrieving Employees by DNAME**:
 
@@ -38,6 +40,8 @@ The Flask application (`app.py`) is designed to address the problem described ab
     - URL Example: `http://localhost:9000/api/employees_by_dname?DNAME=Admin`
     - Description: This API retrieves a list of employees based on their department name (DNAME).
     - Exception Handling: The API handles unexpected errors and returns appropriate error responses.
+    - ![image](https://github.com/sushant-soma/pentonix-assignment/assets/108216630/3933b9f8-20d8-4104-ad50-64e537713c49)
+
 
 ## Running the Application
 
